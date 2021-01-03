@@ -1,8 +1,10 @@
+
+
 namespace dmf {
 
 //%block
 export function move1010 (mySprite: Sprite) {
-	
+	mySprite.setPosition(0, 0)
 }
 
 //%block
