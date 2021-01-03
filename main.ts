@@ -9,6 +9,11 @@ export function move2020 (mySprite: Sprite) {
 }
 
 //%block
+export function talk(mySprite: Sprite){
+    mySprite.say('Hi Ben!');
+}
+
+//%block
 export function halo (mySprite: Sprite) {
     mySprite.startEffect(effects.halo);
 }
