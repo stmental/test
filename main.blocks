@@ -15,4 +15,21 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id="[bMD3ZUZ$w%oGl.P=ory"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="[bMD3ZUZ$w%oGl.P=ory"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="screen_image_picker" id="VO!JxR#$1jzMwRn2MF[7" disabled="true" x="230" y="330"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . 2 2 2 . . . 
+. . . . . . . . . 2 2 . 2 . . . 
+. . . . . . . . 2 2 . . 2 . . . 
+. . . . . . 2 2 2 . . . 2 . . . 
+. . . . . 2 2 . . . . 2 . . . . 
+. . . . 2 2 . . . . . 2 . . . . 
+. . 2 2 2 . . . . 3 2 . . . . . 
+. 2 . 2 . . . . 2 2 . . . . . . 
+2 2 . 2 2 . . 2 2 . . . . . . . 
+. . . . 2 2 2 2 2 . . . . . . . 
+. . . 2 . 2 2 . 2 . . . . . . . 
+. . 2 2 . . . . 2 . . . . . . . 
+. 2 2 . . . . . 2 . . . . . . . 
+. 2 . . . . . 2 2 . . . . . . . 
+. . . . . . 2 2 . . . . . . . . 
+`</field></block></xml>
