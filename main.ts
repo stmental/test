@@ -3,8 +3,14 @@
 namespace dmf {
 
 //%block
-export function move1010 (mySprite: Sprite) {
-	mySprite.setPosition(0, 0)
+export function move2020 (mySprite: Sprite) {
+	mySprite.setPosition(20, 20);
+    
+}
+
+//%block
+export function halo (mySprite: Sprite) {
+    mySprite.startEffect(effects.halo);
 }
 
 //%block
