@@ -1,4 +1,8 @@
-let mySprite = sprites.create(img`
+function doSomething (mySprite: Sprite) {
+    mySprite.setPosition(10, 10)
+}
+let mySprite: Sprite = null
+mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
@@ -16,3 +20,4 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
+doSomething(mySprite)
